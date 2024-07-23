@@ -1,7 +1,6 @@
 {
   "name": "portfolio-next-js",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,12 +10,13 @@
   "dependencies": {
     "clsx": "2.1.1",
     "framer-motion": "11.3.2",
-    "mini-svg-data-uri": "^1.4.4",
+    "mini-svg-data-uri": "1.4.4",
     "next": "14.2.4",
+    "next-themes": "0.3.0",
     "react": "18",
     "react-dom": "18",
     "tailwind-merge": "2.4.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "1.0.7"
   },
   "devDependencies": {
     "@types/node": "20",
